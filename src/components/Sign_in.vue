@@ -242,9 +242,13 @@
         <v-card-text>
           <div>
             <br>
-            <p>Straight Up we aren't liable for misuse and misconduct with our platform</p>
-            <p>Any addons and APIs that we used in addition to our own code was probably free to use</p>
-            <p>Don't sue because we can't pay you how much you're sueing us for because we're in college</p>
+            <p>Agreement to Terms</p>
+            <p>These Tems of Use constitute a legally binding agreement made between you, whether personally or on behalf on entity</p>
+            <p>("you") and Scribi concerning your access to and ue of the Scribi application website as</p>
+            <p> well as any other media from, media channel, mobile application related, linked, or otherwise connected</p>
+            <p> thereto (collectively, the "Site"). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all</p>
+            <p> of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY</p>
+            <p> PROHIBTED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMEDIATELY. </p>
             </div>
         </v-card-text>
 
