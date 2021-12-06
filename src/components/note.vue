@@ -1,3 +1,19 @@
 <template>
-    <h1>This is where you would find all your notes</h1>
+<div>
+    <h1>Notes</h1>
+    <br>
+    <v-btn
+      class="mx-2"
+      fab
+      dark
+      color="indigo"
+    >
+      <v-icon dark>
+        mdi-plus
+      </v-icon>
+    </v-btn>
+</div>
 </template>
+
+<script>
+</script>
